@@ -5,8 +5,8 @@ export const paymentConfig = {
 
   // M-PESA payment details  
   mpesa: {
-    tillNumber: '5204479',
-    businessName: 'FOOTBALL HIGHWAY ENTERPRISES'
+    tillNumber: '8334020',
+    businessName: 'ARCTIC SOLUTIONS'
   },
 
   // Report access features
